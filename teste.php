@@ -4,8 +4,8 @@
  
 echo "Hello World";
 
-echo "Hello World"
-echo "Mis um cmoentario, TRABALHA GALERA"
+echo "Hello World";
+echo "Mis um cmoentario, TRABALHA GALERA";
 
 
 //Lucas comentário
