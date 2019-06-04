@@ -1,6 +1,7 @@
 <?php
 
 //Arrumado!
-echo "Hello World";
+echo "Hello World"
+echo "Mis um cmoentario, TRABALHA GALERA"
 
 ?>
